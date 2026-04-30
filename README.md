@@ -13,8 +13,8 @@
 - **AI Engine:** Groq API (Doğal Dil İşleme ve akıllı içerik üretimi).
 
 ## 📸 Ekran Görüntüleri
-<img width="792" height="549" alt="image" src="https://github.com/user-attachments/assets/b15d9f7a-5f2c-49c3-9ab8-3838365fadde" />
-<img width="755" height="504" alt="image" src="https://github.com/user-attachments/assets/b353248d-d0cd-4b81-a65c-b4f46046be55" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b15d9f7a-5f2c-49c3-9ab8-3838365fadde" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b353248d-d0cd-4b81-a65c-b4f46046be55" />
 
 
 ## 🚀 Kurulum
